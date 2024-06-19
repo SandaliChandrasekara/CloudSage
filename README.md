@@ -46,8 +46,7 @@ CloudSage is a tool designed to help businesses manage their cloud budgets effec
 ## Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/CloudSage.git
-
+git clone https://github.com/SandaliChandrasekara/CloudSage.git
 # Navigate to the project directory
 cd CloudSage
 
